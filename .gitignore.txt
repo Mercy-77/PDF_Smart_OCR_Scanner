@@ -1,0 +1,8 @@
+# Ignorowane foldery i pliki z danymi
+input_pdfs/
+output_pdfs/
+ocr_results.xlsx
+
+# Ignorowane pliki systemowe Pythona
+__pycache__/
+.DS_Store

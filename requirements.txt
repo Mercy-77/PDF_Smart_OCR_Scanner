@@ -1,0 +1,7 @@
+os
+shutil
+easyocr
+pypdfium2
+numpy
+pandas
+openpyxl
