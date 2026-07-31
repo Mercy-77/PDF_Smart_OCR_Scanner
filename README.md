@@ -1,7 +1,7 @@
 # 📄 Smart PDF OCR Scanner & Sorter
 
 ## 📌 About the Project (Business Value)
-This script was created to **automate and optimize repetitive office work**. The team had to manually review hundreds of non-searchable scanned PDFs looking for specific certificates and technical documents (e.g., "depth gauge"). 
+This script was created to **automate and optimize repetitive office work**. The team had to manually review hundreds of non-searchable scanned PDFs looking for specific certificates and technical documents.
 
 This project completely eliminates the human factor from this process. The script "reads" the images, finds the target keywords, automatically sorts the files, and generates an Excel report, **saving hours of manual work**.
 
