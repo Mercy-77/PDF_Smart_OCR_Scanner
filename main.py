@@ -7,8 +7,8 @@ import pandas as pd
 import openpyxl
 
 # Path configuration - using relative paths
-INPUT_FOLDER = "./input_pdfs"       # Folder containing scanned PDFs for analysis
-OUTPUT_FOLDER = "./output_pdfs"     # Destination folder for matched documents
+INPUT_FOLDER = r"./input_pdfs"       # Folder containing scanned PDFs for analysis
+OUTPUT_FOLDER = r"./output_pdfs"     # Destination folder for matched documents
 KEYWORDS = ["keyword_1", "keyword_2"]       # Keywords to search for
 
 # Create directories if they do not exist
